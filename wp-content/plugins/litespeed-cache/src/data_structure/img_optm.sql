@@ -1,10 +1,3 @@
-  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
-  `post_id` bigint(20) unsigned NOT NULL DEFAULT '0',
-  `optm_status` tinyint(4) NOT NULL DEFAULT '0',
-  `src` text NOT NULL,
-  `src_filesize` int(11) NOT NULL DEFAULT '0',
-  `target_filesize` int(11) NOT NULL DEFAULT '0',
-  `webp_filesize` int(11) NOT NULL DEFAULT '0',
-  PRIMARY KEY (`id`),
-  KEY `post_id` (`post_id`),
-  KEY `optm_status` (`optm_status`)
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a6a47b8075134db4e6ac3455480b145cb10b661b58db6e117aa52915933efa
+size 410

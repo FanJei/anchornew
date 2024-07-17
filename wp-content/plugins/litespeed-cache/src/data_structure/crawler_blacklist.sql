@@ -1,8 +1,3 @@
-  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
-  `url` varchar(1000) NOT NULL DEFAULT '',
-  `res` varchar(255) NOT NULL DEFAULT '' COMMENT '-=Not Blacklist, B=blacklist',
-  `reason` text NOT NULL COMMENT 'Reason for blacklist, comma separated',
-  `mtime` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
-  PRIMARY KEY (`id`),
-  KEY `url` (`url`(191)),
-  KEY `res` (`res`)
+version https://git-lfs.github.com/spec/v1
+oid sha256:a096557e41501e65640625e1ec8806f0e052b7eb7fe5276781ae4914029bf43e
+size 406

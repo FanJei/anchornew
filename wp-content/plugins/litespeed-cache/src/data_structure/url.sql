@@ -1,6 +1,3 @@
-`id` bigint(20) NOT NULL AUTO_INCREMENT,
-`url` varchar(500) NOT NULL,
-`cache_tags` varchar(1000) NOT NULL DEFAULT '',
-PRIMARY KEY (`id`),
-UNIQUE KEY `url` (`url`(191)),
-KEY `cache_tags` (`cache_tags`(191))
+version https://git-lfs.github.com/spec/v1
+oid sha256:b62c39af83848201331674eafb3f17666e6d338c8c34ccec2a4794d74dc148cb
+size 205

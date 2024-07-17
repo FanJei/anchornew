@@ -1,7 +1,3 @@
-  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
-  `url` varchar(1000) NOT NULL DEFAULT '',
-  `md5` varchar(128) NOT NULL DEFAULT '',
-  `dateline` int(11) NOT NULL DEFAULT '0',
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `md5` (`md5`),
-  KEY `dateline` (`dateline`)
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c789b6522c8af1877140cf2b6a8adfa30b2f432902e81b18586190cc0c28607
+size 260

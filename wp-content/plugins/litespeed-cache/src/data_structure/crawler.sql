@@ -1,8 +1,3 @@
-  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
-  `url` varchar(1000) NOT NULL DEFAULT '',
-  `res` varchar(255) NOT NULL DEFAULT '' COMMENT '-=not crawl, H=hit, M=miss, B=blacklist',
-  `reason` text NOT NULL COMMENT 'response code, comma separated',
-  `mtime` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
-  PRIMARY KEY (`id`),
-  KEY `url` (`url`(191)),
-  KEY `res` (`res`)
+version https://git-lfs.github.com/spec/v1
+oid sha256:638e641ee634390172eb5a2be700c47aaf0a8cd8a722d37afae656670b1d0115
+size 410
