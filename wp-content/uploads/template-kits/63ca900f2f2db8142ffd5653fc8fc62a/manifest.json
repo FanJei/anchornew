@@ -1,0 +1,1159 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Geech - SaaS & Tech Startup Company Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Features",
+            "screenshot": "screenshots\/features.jpg",
+            "source": "templates\/features.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/features\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit Tab - Pricing",
+            "screenshot": "screenshots\/jkit-tab-pricing.jpg",
+            "source": "templates\/jkit-tab-pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/tab-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header 2",
+            "screenshot": "screenshots\/header-2.jpg",
+            "source": "templates\/header-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/header-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/geech\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.5.13",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-gradient.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/bg-gradient-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 92823,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3GEF96B"
+        },
+        {
+            "filename": "dashboard-hero-9PNM3VQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/dashboard-hero-9PNM3VQ-800x502.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 242494,
+            "dimensions": [
+                1191,
+                747
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9PNM3VQ"
+        },
+        {
+            "filename": "sales-hero.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/sales-hero.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 18494,
+            "dimensions": [
+                582,
+                274
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9PNM3VQ"
+        },
+        {
+            "filename": "pie.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/pie.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 22447,
+            "dimensions": [
+                692,
+                428
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9PNM3VQ"
+        },
+        {
+            "filename": "client-logo-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/client-logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 15414,
+            "dimensions": [
+                566,
+                162
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "client-logo-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/client-logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 11171,
+            "dimensions": [
+                544,
+                162
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "client-logo-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/client-logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 14017,
+            "dimensions": [
+                594,
+                162
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "client-logo-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/client-logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 9668,
+            "dimensions": [
+                434,
+                162
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "cliw.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/cliw.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 9466,
+            "dimensions": [
+                494,
+                162
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "feature-email.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/feature-email.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 106164,
+            "dimensions": [
+                676,
+                428
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SQ7N4PE"
+        },
+        {
+            "filename": "bg-gradient-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/bg-gradient-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 66098,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BDS4C72"
+        },
+        {
+            "filename": "features-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/features-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 107089,
+            "dimensions": [
+                676,
+                428
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2SH5B2D"
+        },
+        {
+            "filename": "features-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/features-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 95031,
+            "dimensions": [
+                676,
+                428
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YW96ZLH"
+        },
+        {
+            "filename": "photo-of-a-confident-beautiful-elegant-young-mixed-447CEM4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/photo-of-a-confident-beautiful-elegant-young-mixed-447CEM4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 23426,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-447CEM4"
+        },
+        {
+            "filename": "business-finance-and-employment-female-successfu-D3NJMQX.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/business-finance-and-employment-female-successfu-D3NJMQX.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 300377,
+            "dimensions": [
+                400,
+                557
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D3NJMQX"
+        },
+        {
+            "filename": "graphic-income.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/graphic-income.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 18102,
+            "dimensions": [
+                414,
+                242
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9PNM3VQ"
+        },
+        {
+            "filename": "graphic-sales.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/graphic-sales.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17140,
+            "dimensions": [
+                308,
+                339
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-379G29T"
+        },
+        {
+            "filename": "testimonial-M6NJPEF.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/testimonial-M6NJPEF.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 31858,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M6NJPEF"
+        },
+        {
+            "filename": "testimonial-83S5W35.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/01\/testimonial-83S5W35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 17155,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83S5W35"
+        },
+        {
+            "filename": "testimonial-A8E2W8S.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/testimonial-A8E2W8S.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 30058,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A8E2W8S"
+        },
+        {
+            "filename": "testimonial-Q8JDNBT.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/testimonial-Q8JDNBT.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29754,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8JDNBT"
+        },
+        {
+            "filename": "testimonial-N8572T7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/testimonial-N8572T7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29574,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8572T7"
+        },
+        {
+            "filename": "testimonial-LDXAEEM.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/testimonial-LDXAEEM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 28474,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LDXAEEM"
+        },
+        {
+            "filename": "cheerful-businessman-9CLQGDS.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/cheerful-businessman-9CLQGDS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17219,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9CLQGDS"
+        },
+        {
+            "filename": "proud-positive-successful-caucasian-bearded-busine-UX33FLQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/proud-positive-successful-caucasian-bearded-busine-UX33FLQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15590,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UX33FLQ"
+        },
+        {
+            "filename": "pretty-secretary-ZCNGWCU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/pretty-secretary-ZCNGWCU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17301,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZCNGWCU"
+        },
+        {
+            "filename": "no-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/no-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 34964,
+            "dimensions": [
+                212,
+                212
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/geech\/"
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 35562,
+            "dimensions": [
+                212,
+                212
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/geech\/"
+        },
+        {
+            "filename": "3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 35783,
+            "dimensions": [
+                212,
+                212
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/geech\/"
+        },
+        {
+            "filename": "cta-dashboard-full.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/cta-dashboard-full-800x502.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 97313,
+            "dimensions": [
+                1191,
+                747
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9PNM3VQ"
+        },
+        {
+            "filename": "team-smile-and-portrait-of-business-people-with-solidarity-teamwork-and-community-at-a-startup-s-e1676617254648.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/team-smile-and-portrait-of-business-people-with-solidarity-teamwork-and-community-at-a-startup-s-e1676617254648-800x520.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 259300,
+            "dimensions": [
+                1920,
+                1248
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UWRDXL9"
+        },
+        {
+            "filename": "business-people-good-teamwork-in-office-teamwork-successful-meeting-workplace-concept--e1676617306367.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/business-people-good-teamwork-in-office-teamwork-successful-meeting-workplace-concept--e1676617306367-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 271819,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AEVURX8"
+        },
+        {
+            "filename": "ceo-6UKKT3E.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/ceo-6UKKT3E.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 261244,
+            "dimensions": [
+                800,
+                1073
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6UKKT3E"
+        },
+        {
+            "filename": "gradienta-OzfD79w8ptA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/gradienta-OzfD79w8ptA-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/jkit-tab-pricing.json",
+                    "name": "JKit Tab - Pricing"
+                }
+            ],
+            "filesize": 24753,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/OzfD79w8ptA"
+        },
+        {
+            "filename": "older-senior-professional-business-man-using-digit-6UKKT3E.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/older-senior-professional-business-man-using-digit-6UKKT3E-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 189817,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6UKKT3E"
+        },
+        {
+            "filename": "mature-female-manager-standing-at-digital-board-YD78R59.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/mature-female-manager-standing-at-digital-board-YD78R59-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 167828,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YD78R59"
+        },
+        {
+            "filename": "young-woman-teacher-coach-standing-at-desk-in-clas-JDACR3X.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/young-woman-teacher-coach-standing-at-desk-in-clas-JDACR3X-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 187558,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JDACR3X"
+        },
+        {
+            "filename": "modern-bald-manager-standing-at-digital-board-PMVSWNF.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/modern-bald-manager-standing-at-digital-board-PMVSWNF-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 197510,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMVSWNF"
+        },
+        {
+            "filename": "portrait-of-confident-business-middle-aged-counsel-TW3ZVZF.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/portrait-of-confident-business-middle-aged-counsel-TW3ZVZF-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 183210,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TW3ZVZF"
+        },
+        {
+            "filename": "portrait-of-successful-senior-businessman-gray-PRHRJ6H.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/portrait-of-successful-senior-businessman-gray-PRHRJ6H.jpg",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 28951,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRHRJ6H"
+        },
+        {
+            "filename": "features-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/features-4.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 103877,
+            "dimensions": [
+                676,
+                428
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T7D6YAU"
+        },
+        {
+            "filename": "features-5.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/features-5.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 84398,
+            "dimensions": [
+                676,
+                428
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LVCC6P9"
+        },
+        {
+            "filename": "programmer-working-in-a-software-developing-company-office-e1676617327630.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/programmer-working-in-a-software-developing-company-office-e1676617327630-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 223060,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3SAMQ7V"
+        },
+        {
+            "filename": "it-specialist-developing-software-at-office-e1676617428850.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/it-specialist-developing-software-at-office-e1676617428850-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 153832,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UXXZH35"
+        },
+        {
+            "filename": "logo-header.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/logo-header.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/header-2.json",
+                    "name": "Header 2"
+                }
+            ],
+            "filesize": 17782,
+            "dimensions": [
+                463,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gradient-g-letter-logo-pack_13862781.htm"
+        },
+        {
+            "filename": "logo-footer.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/geech\/wp-content\/uploads\/sites\/339\/2023\/02\/logo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 16520,
+            "dimensions": [
+                463,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gradient-g-letter-logo-pack_13862781.htm"
+        }
+    ]
+}
